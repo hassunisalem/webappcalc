@@ -1,0 +1,4 @@
+127.0.0.1 - - [04/Feb/2019:15:36:59 +0100] "GET /mavenproject1/Calculator?operation=add&n1=2&n2=3 HTTP/1.1" 200 19 http-bio-7777-exec-1 44
+127.0.0.1 - - [04/Feb/2019:15:36:59 +0100] "GET /mavenproject1/Calculator?operation=div&n1=6&n2=3 HTTP/1.1" 200 19 http-bio-7777-exec-2 8
+127.0.0.1 - - [04/Feb/2019:15:36:59 +0100] "GET /mavenproject1/Calculator?operation=mul&n1=2&n2=3 HTTP/1.1" 200 19 http-bio-7777-exec-3 4
+127.0.0.1 - - [04/Feb/2019:15:36:59 +0100] "GET /mavenproject1/Calculator?operation=sub&n1=4&n2=2 HTTP/1.1" 200 19 http-bio-7777-exec-4 5
